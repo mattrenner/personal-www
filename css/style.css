@@ -1,0 +1,35 @@
+@font-face {
+  font-family: Houschka;
+  src: url('../img/regular.ttf');
+}
+
+body {
+  font-family: proxima-nova, "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+  background: #40a8b1;
+  color: #fff;
+}
+
+h2 { 
+  font-size: 5rem;
+  font-family: Houschka;
+  text-transform: uppercase;
+  padding-bottom: 2rem;
+}
+
+.content {
+  margin-top: 25rem;
+  text-align: center;
+}
+
+img {
+  padding: 2rem 0 12rem 0;
+}
+
+a.console-link {
+  font-family: Courier;
+  cursor: pointer;
+  color: #fff;
+
+}
+  
